@@ -45,7 +45,7 @@ const DarkMode = ({mode}) => {
   return (
     
     <div onClick={toggleTheme}>
-    <i className={`fas ${mode === true ? 'fa-moon' : 'fa-sun'}`}></i> </div>
+    <i className={`fas ${storedTheme==='light' ? 'fa-moon' : 'fa-sun'}`}></i> </div>
         
   );
   

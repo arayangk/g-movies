@@ -17,7 +17,7 @@ const Footer = () => {
       <div className="copy" 
       
     >
-        © 2022 by <a href="https://linkedin.com/in/giasuddin-sk-09b38a17b" target="_blank" rel="noopener noreferrer"><strong>Gias Sk</strong></a>. Made With React. Powered by{" "}
+        © 2022 by <a href="https://giassk.vercel.app/" target="_blank" rel="noopener noreferrer"><strong>Gias Sk</strong></a>. Made With React. Powered by{" "}
         <a href="#">
           <strong>TMDB API</strong>
         </a>
